@@ -1,4 +1,4 @@
-# Qwen 3.6 35B-A3B en una RTX 5070 de 12 GB
+# Qwen 3.6 35B-A3B 144 T/S
 
 Configuración reproducible utilizada para generar una landing completa con Qwen 3.6 35B-A3B GGUF IQ2_XXS mediante `llama.cpp` en una NVIDIA GeForce RTX 5070 de 12 GB.
 
