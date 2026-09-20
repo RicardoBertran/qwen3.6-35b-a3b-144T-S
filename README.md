@@ -56,12 +56,12 @@ El modelo no se distribuye en este repositorio.
 ## Estructura
 
 ```text
-config/parameters.md       Parámetros completos y comando de referencia
+config/parameters.md        Parámetros completos y comando de referencia
 docs/production-report.docx Informe de producción y precisión editorial
-evidence/run-result.md     Resultado medido y alcance de la prueba
-output/README.md           Estado de los HTML original y corregido
-prompts/landing.md         Prompt reproducible de la landing
-scripts/start-server.ps1   Lanzador parametrizado para Windows
+evidence/run-result.md      Resultado medido y alcance de la prueba
+output/README.md            Estado de los HTML original y corregido
+prompts/landing.md          Prompt reproducible de la landing
+scripts/start-server.ps1    Lanzador parametrizado para Windows
 ```
 
 ## Qué valida esta prueba
@@ -79,4 +79,4 @@ scripts/start-server.ps1   Lanzador parametrizado para Windows
 
 ## Licencia
 
-La licencia del repositorio debe elegirse antes de su publicación.
+Este repositorio no incluye todavía una licencia. Hasta que se añada una, se mantienen los derechos de autor predeterminados.
