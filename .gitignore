@@ -1,0 +1,11 @@
+# Archivos locales del modelo y del runtime
+*.gguf
+llama-server.exe
+
+# Registros locales
+*.log
+
+# Archivos temporales
+*.tmp
+Thumbs.db
+.DS_Store
